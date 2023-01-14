@@ -168,8 +168,6 @@ People love shawarma because of how meaty it is while still being a healthy food
 </body>
 </html>
 ```
-
-
 # Output:
 
 ![output](/image%201.png)
