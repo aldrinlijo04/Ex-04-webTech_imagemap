@@ -171,18 +171,11 @@ People love shawarma because of how meaty it is while still being a healthy food
 # Output:
 
 ![output](/image%201.png)
-
 ![output](/image%202.png)
-
 ![output](/image%203.png)
-
 ![output](/image%204.png)
-
 ![output](/image%205.png)
-
 ![output](/image%206.png)
-
-
 
 ## HTML Validatorx:
 
